@@ -1,5 +1,4 @@
 # DREPAL-IPCINGSTOOLSKIT
- # VGEA [![DOI](https://zenodo.org/badge/236802599.svg)](https://zenodo.org/badge/latestdoi/236802599)
 
 VGEA (Viral Genomes Easily Analyzed) is an RNA viral assembly toolkit.
 
